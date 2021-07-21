@@ -1,5 +1,5 @@
-# OldWebsite
-This is the Legacy Website for Disconnect the Discord Bot.
+# Exy Website
+This is the Legacy Website forExyBot.
 
-## View the old website here!
-https://disconnectdiscordbot.github.io/OldWebsite/
+## View the website here
+https://exybot.es
