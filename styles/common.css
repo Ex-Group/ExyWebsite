@@ -62,7 +62,7 @@ body {
 
 /* Nav Bar */
 .navbar {
-	color: #ffffff;
+	color: #58daff;
 	height: 70px;
 	font-weight: 400;
 	background-color: var(--secondary-color);
@@ -133,7 +133,7 @@ body {
 }
 
 .footernav a:hover {
-	color: #ffffff;
+	color: #58daff;
 }
 
 /* Animations */
