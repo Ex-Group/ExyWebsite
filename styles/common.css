@@ -67,7 +67,7 @@ body {
 	height: 70px;
 	font-weight: 400;
 	background-color: var(--secondary-color);
-	border-bottom: var(--purple1) 5px solid;
+	border-bottom: var(--light-purple1) 5px solid;
 }
 
 .navbar ul {
@@ -113,7 +113,7 @@ body {
 /* Footer */
 .footer {
 	width: 100%;
-	border-top: var(--purple1) 5px solid;
+	border-top: var(--light-purple1) 5px solid;
 	padding: 30px;
 	height: 200px;
 	background-color: var(--secondary-color);
