@@ -112,7 +112,7 @@ body {
 /* Footer */
 .footer {
 	width: 100%;
-	border-top: var(--purple) 5px solid;
+	border-top: #17a2b7;
 	padding: 30px;
 	height: 200px;
 	background-color: var(--secondary-color);
