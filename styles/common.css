@@ -9,6 +9,7 @@
 	--error-color: #fc4747;
 	--purple: #663399;
 	--light-purple: #8f45d9;
+	--light-purple1: #817a2b7;
 }
 
 * {
@@ -66,7 +67,7 @@ body {
 	height: 70px;
 	font-weight: 400;
 	background-color: var(--secondary-color);
-	border-bottom: #17a2b7;
+	border-bottom: var(--purple1) 5px solid;
 }
 
 .navbar ul {
@@ -112,7 +113,7 @@ body {
 /* Footer */
 .footer {
 	width: 100%;
-	border-top: #17a2b7;
+	border-top: var(--purple1) 5px solid;
 	padding: 30px;
 	height: 200px;
 	background-color: var(--secondary-color);
